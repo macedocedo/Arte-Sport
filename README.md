@@ -1,9 +1,8 @@
-
 # Cartão de Visita Digital - Responsive Website
 
-- Seja bem-vindo ao futuro dos cartões de visita!
-
-# Este é um projeto inovador que combina a praticidade do mundo digital com a eficácia dos contatos pessoais.
+Seja bem-vindo ao futuro dos cartões de visita!
+  
+Este é um projeto inovador que combina a praticidade do mundo digital com a eficácia dos contatos pessoais.
 Imagine ter todas as suas informações de contato em um único lugar, acessível através de um simples scan de QR code.
 
 # Sobre o Projeto
