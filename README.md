@@ -31,7 +31,7 @@ Escaneie o QR Code: Utilize a câmera do seu dispositivo para escanear o QR code
 Acesse as Informações: Você será direcionado para o site onde todas as suas informações de contato estarão disponíveis.
 Interaja: Explore as diferente
 
-# Link: https://macedocedo.github.io/Arte-Sport/
+# Responsive Website Link: https://macedocedo.github.io/Arte-Sport/
 
 ![image](https://github.com/macedocedo/ArteSport/assets/84480587/4114560f-dfc3-425d-8bb1-0a45112a2caf)
 
